@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Virtual LSD "</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ride1">Ride1</string>
+    <string name="title_activity_ride2">Ride2</string>
+    <string name="title_activity_ride3">Ride3</string>
+    <string name="title_activity_ride4">Ride4</string>
+</resources>
